@@ -15,4 +15,3 @@ const about = {
   architecture:  ["event-driven", "REST APIs", "webhooks"],
   interests:     ["system design", "performance optimization"],
 }
-` ` `
